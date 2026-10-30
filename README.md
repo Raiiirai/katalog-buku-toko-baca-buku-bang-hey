@@ -25,30 +25,6 @@ detail buku berdasarkan ID.
 
 ## Screenshot Output
 
-Simpan screenshot tampilan aplikasi di folder `screenshots/` pada
-direktori utama proyek. Contoh struktur folder:
-
-``` text
-book-catalog/
-├── app/
-├── public/
-├── resources/
-├── routes/
-├── screenshots/
-│   ├── beranda.png
-│   ├── daftar-buku.png
-│   ├── detail-buku.png
-│   └── kategori.png
-├── .env.example
-├── artisan
-├── composer.json
-└── README.md
-```
-
-Setelah screenshot disimpan dengan nama yang sesuai, gambar dapat
-ditampilkan di README menggunakan sintaks Markdown berikut. Sesuaikan
-nama file jika nama screenshot milikmu berbeda.
-
 ### Beranda
 
 ![Screenshot halaman Beranda](screenshots/beranda.png)
